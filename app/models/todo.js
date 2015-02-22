@@ -14,7 +14,7 @@ Todo.reopenClass({
    },
    {
      id: 2,
-     title: '...',
+     title: 'And then again, learn ember..',
      isCompleted: false
    },
    {
